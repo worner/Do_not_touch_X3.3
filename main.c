@@ -10,7 +10,7 @@
  *   Procesor: ATtiny 13A
  *		Clock: 4,8 MHz bez podziału przez 8
  * +=+=+=+=+=+=+=+=+=+=+=+
- */
+ */ GitHub teks testowy
 //=== PLIKI NAGŁÓWKOWE ===
 #include <avr/io.h>
 #include <util/delay.h>
